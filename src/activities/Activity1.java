@@ -19,7 +19,7 @@ package activities;
 			System.out.println("Color of the car: " +color);
 			System.out.println("Transmission of the car: " +transmission);
 			System.out.println("Make of the car: " +make);
-			System.out.println("Number of tyres on the car: " +tyres);
+			System.out.println("Number of tyres on car: " +tyres);
 			System.out.println("Number of doors on the car: " +doors);
 			
    }
