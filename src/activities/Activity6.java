@@ -50,7 +50,7 @@ public class Activity6 {
         //Plane takes off
         System.out.println("Plane took off at: " + plane.takeOff());
         //Print list of people on board
-        System.out.println("People on the plane: " + plane.getPassengers());
+        System.out.println("People on plane: " + plane.getPassengers());
         //Flying.....
         Thread.sleep(5000);
         //Plane has landed
