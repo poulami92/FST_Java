@@ -13,7 +13,7 @@ public class Activity3 {
         double UranusSeconds = 84.016846;
         double NeptuneSeconds = 164.79132;
         
-        System.out.println("Age on Mercury: " + seconds / EarthSeconds / MercurySeconds);
+        System.out.println("Age on Mercury1: " + seconds / EarthSeconds / MercurySeconds);
         System.out.println("Age on Venus: " + seconds / EarthSeconds / VenusSeconds);
         System.out.println("Age on Earth: " + seconds / EarthSeconds);
         System.out.println("Age on Mars: " + seconds / EarthSeconds / MarsSeconds);
