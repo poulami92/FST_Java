@@ -8,7 +8,7 @@ public class LambdaExample{
         // Create a ArrayList
         List<String> list=new ArrayList<String>();
         // Add values to the list
-        list.add("Rick");
+        list.add("Rickii");
         list.add("Negan");
         list.add("Daryl");
         list.add("Glenn");
