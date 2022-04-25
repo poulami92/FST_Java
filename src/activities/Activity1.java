@@ -16,7 +16,7 @@ package activities;
 		
 		public void displayCharacteristics() {
 			
-			System.out.println("Color of the car: " +color);
+			System.out.println("Color of car: " +color);
 			System.out.println("Transmission of the car: " +transmission);
 			System.out.println("Make of the car: " +make);
 			System.out.println("Number of tyres on the car: " +tyres);
