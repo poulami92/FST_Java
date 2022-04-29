@@ -22,6 +22,7 @@ package activities;
 			System.out.println("Number of tyres on the car: " +tyres);
 			System.out.println("Number of doors on the car: " +doors);
 			System.out.println("branch 1 change");
+			System.out.println("branch 1 change");
 			
    }
 		
